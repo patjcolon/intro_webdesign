@@ -1,10 +1,76 @@
+html{
+    margin:24px;
+    background-color: #280f31;
+    font-family: 'Teko',sans-serif;
+    letter-spacing: 1.3px;
+    word-spacing: 2px;
+    font-size: 1.5rem;
+}
+
+body{
+    background-color: #d5cca4;
+    border:3px outset #FCE6BE;
+    padding: 10px;
+    width: 50rem;
+}
+
+#teko{
+    font-family: 'Teko', sans-serif;
+}
+
+div{
+    background-color: #280f31;
+    border:solid #2a8590;
+    border-width: 4px 12px;
+    border-radius: 16px;
+    padding: 0px 8px 8px 24px;
+    margin: 2px;
+    line-height: 0.6rem;
+    color:#FCE6BE
+}
+
+#bday{
+    width: 60%;
+    margin: 1% 20% 1% 20%;
+    height: 60%;
+}
+
+ul{
+    line-height: 1rem;
+    color:#FCE6BE;
+}
+
+hr {
+    border: 2px solid #280f31;
+    margin: 4px 4px;
+}
+
+a{
+    color: #FCE6BE;
+    font-size: 1rem;
+}
+
+#header{
+    background-color: #2a8590;
+    border-color: #280f31;
+    border-style: outset;
+    padding-bottom: 1px;
+}
+
+#footer{
+    padding: 10px;
+}
+
+#memelink{
+    color:#FCE6BE;
+}
+
 .color-title{
     font-weight: normal;
 }
 
 img{
-    height: 200px;
-    width: 200px;
+    width:35%;
 }
 
 h2[id="red"]{
